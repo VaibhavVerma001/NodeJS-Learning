@@ -36,5 +36,5 @@ fs.appendFileSync("./test", `${Date.now()} Hey There\n`);
 // console.log(fs.statSync("./test"));
 // console.log(fs.statSync("./test").isFile());
 
-//making Dir
+//making Dir or making Folders
 // fs.mkdirSync("my-docs/a/b", {recursive: true})
